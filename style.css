@@ -187,7 +187,7 @@ html::-webkit-scrollbar{
 }
 .menu p{
   font-size: 16px;
-  color: cornflowerblue;
+  color: #000000;
   padding-top: 10px;
 }
 .menu p span{
