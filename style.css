@@ -19,6 +19,17 @@ html::-webkit-scrollbar{
   width: 10px;
 }
 /* navbar */
+
+/* navbar */
+#navbar {
+  background-color: darkgray;
+  font-family: 'Roboto', sans-serif;
+  position: sticky;
+  top: 0;
+  z-index: 1000; /* Agar navbar berada di atas konten lainnya */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Tambahkan sedikit shadow agar lebih terlihat */
+}
+
 #navbar{
   background-color: darkgray;
   font-family: 'Roboto', sans-serif;
